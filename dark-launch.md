@@ -1,0 +1,3 @@
+# Dark Launch
+
+Dark Launch is the practice of launching a new version of a microservice and splitting traffic between it and the existing version while using only the existing version in production. After splitting the ingress messages, both the existing version of the microservice and the Dark Launch version process the messages and yield results. The results of the existing version are returned as usual, while the Dark Launch version results are logged. These logged results are then analyzed to assure they are correct.

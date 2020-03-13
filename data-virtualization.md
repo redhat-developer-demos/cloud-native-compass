@@ -1,0 +1,3 @@
+# Data Virtualization
+
+A view of the data is presented that is not necessarily a one-to-one mapping to the underlying data source(s). Because, in a distributed system, data is stored across the network in (often) many different forms (RDBMS, NoSQL, files, etc), it is often necessary to create a view of the data that maps to the bounded context being served. This virtual view of the data allows the microservice to understand and work with the data in the ubiquitous language as determined by the bounded context.

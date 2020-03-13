@@ -1,0 +1,3 @@
+# Traffic Splitting
+
+Used with a Dark Launch, traffic splitting is the practice of sampling and duplicating some traffic to a service -- the percentage or sampling rate is configurable -- and sending it to a second service for processing. The second service processes the request and returns the values to a third party -- a log file, for example -- where it can be evaluated to see if the results are as expected.

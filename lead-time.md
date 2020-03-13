@@ -1,0 +1,3 @@
+# Lead Time
+
+The amount of time it takes to complete a delivery from when the request was made. In addition to cycle time, lead time includes all applicable process elements leading up to the start of work including manual tasks, such as order processing and requirements management but also subsequent elements like billing. Lead time is used to measure process efficiency from a customer perspective. 

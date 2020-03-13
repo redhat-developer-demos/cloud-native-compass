@@ -1,0 +1,3 @@
+# Metrics
+
+The measurements of a system. For cloud native computing, sampling of requests and performance monitoring metrics are paramount success, both in terms of performance and uptime. Important metrics include: network latency, processor load, processing time, database performance, UI response time, and fault rates. In an ecommerce system, conversion rates to sales are an important metric when combined with A/B testing to fine tune the UI and increase sales.

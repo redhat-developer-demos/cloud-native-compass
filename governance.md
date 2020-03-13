@@ -1,0 +1,3 @@
+# Governance
+
+How a project or system is managed, regulated and/or directed. When adopting the Cloud Native computing paradigm, governance of software projects switches from a more process-centric management to a results-specific model. This is because, with multiple small, autonomous teams and projects, decisions about the development languages, methods, etc. are left up to the team. The only criteria for success are function and support; that is, does the software work correctly and it is well supported?

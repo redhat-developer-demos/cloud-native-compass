@@ -1,0 +1,3 @@
+# Route
+
+The path to a microservice. Because a microservice may be running several instances of itself, the route may have multiple paths. When this is the case, the multiple routes are tracked by the Load Balancer, which in then determines which specific route to use when a microservice is called. These routes may differ by port number, IP address or DNS entry, i.e. different URIs. When this happens, the load balance automates the routing, allowing the developer to use one URI that is resolved at runtime.

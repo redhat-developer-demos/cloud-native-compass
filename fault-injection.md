@@ -1,0 +1,3 @@
+# Fault Injection
+
+The practice of intentionally introducing faults into a system in order to test it. In the realm of Cloud Native Computing, where microservices are autonomous and small, yet work in a large and often very complex system, testing by fault injection is a good way to test system-wide error handling. Logging and monitoring can also be tested, as faults should be logged and monitored and surfaced as an aid to debugging.
