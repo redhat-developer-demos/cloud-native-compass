@@ -6,4 +6,4 @@ These techniques enable loosely coupled systems that are resilient, manageable, 
 
 The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.
 
-* official reference: [Cloud Native Definition](https://github.com/cncf/toc/blob/master/DEFINITION.md)
+* official reference: [Cloud Native Definition v1](https://github.com/cncf/toc/blob/master/DEFINITION.md)
